@@ -14,12 +14,13 @@
    Using the projected year, we were able to get an idea that May was the month where maximum success outcome occurred and that there was steap decline from october into decemeber months. 
 
    ![Theater_Outcomes_Based_on_Launch_Date](Resources/Theater_Outcomes_Based_on_Launch_Date.png)
+
   
 ### Analysis of Outcomes Based on Goals
-
-     Funding goals within the range from 1000 to 50000 happened to have maximum success outcome. Next best was with amount less than 1000 and was observed that as the amount increased, success was very negligible.
+    Funding goals within the range from 1000 to 50000 happened to have maximum success outcome. Next best was with amount less than 1000 and was observed that as the amount increased, success was very negligible.
      
    ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+   
 
 
 ### Challenges and Difficulties Encountered
