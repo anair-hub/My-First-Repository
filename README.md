@@ -19,7 +19,7 @@
 
      Funding goals within the range from 1000 to 50000 happened to have maximum success outcome. Next best was with amount less than 1000 and was observed that as the amount increased, success was very negligible.
      
-      ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+   ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
