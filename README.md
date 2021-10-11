@@ -23,7 +23,9 @@
 
 
 ### Challenges and Difficulties Encountered
-    Since dataset was available only till 2017 year, no current date analysis was possible. Initially I had issue creating Pivot tables as i had to play around with the dataset. I then read through the instructions and then broke it down to further data segments which helped me completed the analysis.
+    Since dataset was available only till 2017 year, no current date analysis was possible. Initially I had issue creating Pivot tables 
+    as i had to play around with the dataset. I then read through the instructions and then broke it down to further data segments which 
+    helped me completed the analysis.
 
 ## Results
 
