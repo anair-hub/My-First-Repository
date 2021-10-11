@@ -17,9 +17,10 @@
   
 ### Analysis of Outcomes Based on Goals
 
-   ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+     Funding goals within the range from 1000 to 50000 happened to have maximum success outcome. Next best was with amount less than 1000 and was observed that as the amount increased, success was very negligible.
+     
+      ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
-   Funding goals within the range from 1000 to 50000 happened to have maximum success outcome. Next best was with amount less than 1000 and was observed that as the amount increased, success was very negligible.
 
 ### Challenges and Difficulties Encountered
     Since dataset was available only till 2017 year, no current date analysis was possible. Initially I had issue creating Pivot tables as i had to play around with the dataset. I then read through the instructions and then broke it down to further data segments which helped me completed the analysis.
